@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Outer Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:pathData="M 54, 24 A 30,30 0 1,1 53.99, 24 Z" />
+    <!-- Center Lightning & One-Tap Hand Emblem -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 58, 32 L 44, 52 L 53, 52 L 48, 72 L 66, 48 L 56, 48 Z" />
+</vector>

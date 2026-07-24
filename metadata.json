@@ -1,0 +1,6 @@
+{
+  "name": "One Tap Panel",
+  "description": "Premium SMM Panel for social media growth, instant order processing, wallet recharges, coupons, referral rewards, and integrated admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
